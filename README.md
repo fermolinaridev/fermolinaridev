@@ -17,7 +17,7 @@
 <br>
 
 🎓 Estudante de Engenharia de Software na **PUC-Campinas** <br>
-💻 Gosto de programação, automação e tecnologia <br>
+💻 Apaixonado por programação, automação e tecnologia <br>
 🚀 Focado em **desenvolvimento backend**, APIs e aplicações modernas <br>
 🧠 Explorando **MLOps**, **Visão Computacional** e engenharia de software avançada <br>
 🌊 Constantemente evoluindo através de projetos reais e novas tecnologias <br>
@@ -191,6 +191,10 @@ Experimentos e projetos explorando modelos de machine learning, visão computaci
 
 <a href="https://github.com/fermolinaridev">
 <img src="https://img.shields.io/badge/GitHub-00698A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/fer_molinari">
+<img src="https://img.shields.io/badge/Instagram-005F7A?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
