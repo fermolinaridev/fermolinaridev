@@ -16,7 +16,7 @@
 
 <br>
 
-🎓 Estudante de Engenharia de Software na **PUC-Campinas** <br>
+🎓 Estudante de Engenharia de Software na **FIAP** <br>
 💻 Gosto de programação, automação e tecnologia <br>
 🚀 Focado em **desenvolvimento backend**, APIs e aplicações modernas <br>
 🧠 Explorando **MLOps**, **Visão Computacional** e engenharia de software avançada <br>
