@@ -19,7 +19,7 @@
 🎓 Estudante de Engenharia de Software na **FIAP** <br>
 💻 Gosto de programação, automação e tecnologia <br>
 🚀 Focado em **desenvolvimento backend**, APIs e aplicações modernas <br>
-🧠 Explorando **MLOps**, **Visão Computacional** e engenharia de software avançada <br>
+🧠 Explorando **MLOps**, **Visão Computacional**, **engenharia de software avançada** e IA <br>
 🌊 Constantemente evoluindo através de projetos reais e novas tecnologias <br>
 
 </div>
@@ -88,7 +88,6 @@
 
 <br>
 
-☕ Desenvolvimento avançado em **Java** (padrões, design patterns, arquitetura) <br>
 🐍 **Python** aplicado a automação e Machine Learning <br>
 👁️ **Visão Computacional** e processamento de imagens <br>
 ⚙️ **MLOps** — deploy, monitoramento e ciclo de vida de modelos <br>
