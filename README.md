@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" alt="Fernando Molinari — Engenharia de Software" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:001F2E,50:00698A,100:00BCD4&text=Fernando%20Molinari&fontColor=B0EEF8&fontSize=54&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%C2%B7%20Java%20%C2%B7%20Python%20%C2%B7%20IA&descAlignY=58&descSize=18"/>
+<img width="100%" alt="Fernando Molinari — Engenharia de Software" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:001F2E,50:00698A,100:00BCD4&text=Fernando%20Molinari&fontColor=B0EEF8&fontSize=54&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%C2%B7%20HTML%20%C2%B7%20Python%20%C2%B7%20IA&descAlignY=58&descSize=18"/>
 
-<img alt="Estudante de Engenharia de Software ·Spring Boot · Python e IA · aprendendo desenvolvimento web" src="https://readme-typing-svg.demolab.com/?color=00E5FF&size=28&center=true&vCenter=true&width=900&height=60&lines=Estudante+de+Engenharia+de+Software+na+FIAP;+%2B+Spring+Boot+%7C+Python+%2B+IA;Aprendendo+desenvolvimento+web+e+MLOps"/>
+<img alt="Estudante de Engenharia de Software ·Spring Boot · Python e IA · aprendendo desenvolvimento web" src="https://readme-typing-svg.demolab.com/?color=00E5FF&size=28&center=true&vCenter=true&width=900&height=60&lines=Estudante+de+Engenharia+de+Software+na+FIAP;+%2BSpring+Boot+%7C+Python+%2B+IA;Aprendendo+desenvolvimento+web+e+MLOps"/>
 
 </div>
 
