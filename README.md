@@ -90,7 +90,7 @@ Agente em Python que resolve problemas de álgebra linear a partir de **linguage
 
 <br><br>
 
-<img alt="Sequência de contribuições de fermolinaridev" src="https://streak-stats.demolab.com/?user=fermolinaridev&theme=react&background=0D1117&border=00BCD4&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=B0EEF8&dates=6C8FA0&hide_border=false"/>
+<img alt="Sequência de contribuições de fermolinaridev" src="https://streak-stats.demolab.com/?user=fermolinaridev&theme=react&background=0D1117&border=00BCD4&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=B0EEF8&dates=6C8FA0&hide_border=false" &v=2/>
 
 <!--
   Card de stats geral: a instância pública do github-readme-stats vive fora do ar
