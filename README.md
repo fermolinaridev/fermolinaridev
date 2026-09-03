@@ -104,7 +104,6 @@ Agente em Python que resolve problemas de álgebra linear a partir de **linguage
 ---
 
 ## 🔵 Contato
-## 🔵 Contato
 
 <div align="center">
 
@@ -118,10 +117,6 @@ Agente em Python que resolve problemas de álgebra linear a partir de **linguage
 <img alt="Enviar e-mail" src="https://img.shields.io/badge/E--mail-005F80?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://instagram.com/fer_molinari">
-<img alt="Perfil no Instagram" src="https://img.shields.io/badge/Instagram-005F7A?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
 <img alt="Perfil no Instagram" src="https://img.shields.io/badge/Instagram-005F7A?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
